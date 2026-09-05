@@ -14,7 +14,7 @@ interactive 4-page Power BI dashboard.
 ## Screenshots
 
 ### Key Insights
-![Key Insights](screenshots/01_key_insights.png)
+![Key Insights](Key Insights .jpg)
 
 ### Executive Overview
 ![Overview](screenshots/02_overview.png)

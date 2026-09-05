@@ -14,17 +14,16 @@ interactive 4-page Power BI dashboard.
 ## Screenshots
 
 ### Key Insights
-![Key Insights](key-insights.jpg)
+![Key Insights](screenshots/key-insights.jpg)
 
 ### Executive Overview
-![Overview](executive-overview.jpg)
+![Overview](screenshots/executive-overview.jpg)
 
 ### Sales & Profitability
-![Profitability](sales-profitability.jpg)
+![Profitability](screenshots/sales-profitability.jpg)
 
 ### Regional & Channel
-![Regional](regional-channel.jpg)
-
+![Regional](screenshots/regional-channel.jpg)
 ## Files
 - Power BI file (open with Power BI Desktop, free) — see the `.pbix` file above
 - Source dataset with formula-linked tables — see the `.xlsx` file above

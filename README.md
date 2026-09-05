@@ -14,20 +14,20 @@ interactive 4-page Power BI dashboard.
 ## Screenshots
 
 ### Key Insights
-![Key Insights](Key Insights .jpg)
+![Key Insights](key-insights.jpg)
 
 ### Executive Overview
-![Overview](screenshots/02_overview.png)
+![Overview](executive-overview.jpg)
 
 ### Sales & Profitability
-![Profitability](screenshots/03_profitability.png)
+![Profitability](sales-profitability.jpg)
 
 ### Regional & Channel
-![Regional](screenshots/04_regional.png)
+![Regional](regional-channel.jpg)
 
 ## Files
-- `NorthPeak_Sales_Performance_Dashboard.pbix` — Power BI file (open with Power BI Desktop, free)
-- `Sales_Performance_Analysis.xlsx` — source dataset with formula-linked tables
+- Power BI file (open with Power BI Desktop, free) — see the `.pbix` file above
+- Source dataset with formula-linked tables — see the `.xlsx` file above
 
 ## Tools used
 Excel, Power BI Desktop, DAX, Power Query

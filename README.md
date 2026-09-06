@@ -24,9 +24,17 @@ interactive 4-page Power BI dashboard.
 
 ### Regional & Channel
 ![Regional](screenshots/regional-channel.jpg)
+
+## SQL Layer
+This project also includes a full SQL analysis layer (schema + 16 queries 
+answering all business questions) — see [`/sql-analysis`](./sql-analysis)
+
 ## Files
 - Power BI file (open with Power BI Desktop, free) — see the `.pbix` file above
 - Source dataset with formula-linked tables — see the `.xlsx` file above
+- SQL schema, queries, and database — see [`/sql-analysis`](./sql-analysis)
+
 
 ## Tools used
 Excel, Power BI Desktop, DAX, Power Query
+Excel, Power BI Desktop, DAX, Power Query, SQL (SQLite)

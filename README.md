@@ -17,7 +17,7 @@ interactive 4-page Power BI dashboard.
 ![Key Insights](screenshots/key-insights.jpg)
 
 ### Executive Overview
-![Overview](screenshots/executive-overview.jpg)
+![Overview](screenshots/Executive-Overview.jpg)
 
 ### Sales & Profitability
 ![Profitability](screenshots/sales-profitability.jpg)
